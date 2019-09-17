@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/junyidu/.conda/envs/epic-models/bin/python",
+    "python.dataScience.jupyterServerURI": "local"
+}
